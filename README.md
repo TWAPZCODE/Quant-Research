@@ -1,6 +1,6 @@
 # QUANT RESEARCH 
 
-A collection of systematic trading resreach covering alpha signal discovery, trend-following strategies, and volatility regime analysis. Each study follows a hypothesis-driven workflow.
+A collection of systematic trading resreach covering alpha signal discovery, trend-following strategies, and volatility regime analysis. Each study follows a hypothesis-driven workflow.This serves to be an ever expanding repository of mini projects.
 
 # Research Modules
 
